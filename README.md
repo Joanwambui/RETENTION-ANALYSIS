@@ -6,3 +6,6 @@ To create our cohort index we first identified the cohort period, which is typic
 
 ![](Images/Screenshot%20(292).png)
 ![](Images/Screenshot%20(293).png)
+To create the cohort index, combine the customer and purchase data, grouping the data by cohort period and purchase date, and calculating the number of customers who made a purchase in each cohort and time period.
+![](Images/Screenshot%20(294).png)
+From tableau we could clearly see the customers that came back to after their first purchase in January 2010 were 95 compared to returning customers in January 2011 as 331.
